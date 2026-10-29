@@ -1,0 +1,3 @@
+# RecruitSafe AI — Phase 1 Dependencies
+# Minimal, beginner-friendly requirements for local Streamlit execution
+streamlit>=1.38.0

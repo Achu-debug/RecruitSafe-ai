@@ -1,0 +1,6 @@
+{
+  "name": "RecruitSafe AI",
+  "description": "Verify Before You Trust. AI and rules-powered recruitment verification platform helping students and job seekers spot recruitment scams, fake offers, and impersonation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
